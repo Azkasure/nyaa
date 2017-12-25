@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 [COLOR RED] [/COLOR] group-title="Canales",.: TV :.
-#EXTINF:-1 [COLOR WHITE] [/COLOR] group-title="Chile",.: Nacionales CHULE~ :.
+#EXTINF:0 [COLOR WHITE] [/COLOR] group-title="Chile",.: Nacionales CHULE~ :.
 #EXTINF:0, La Red HD
 http://movilstream.digitalproserver.com:443/redtv/redtvvivo/livestream1/playlist.m3u8
 #EXTINF:0,UCV HD
@@ -11,7 +11,7 @@ http://edge-11-mvstr.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f
 http://edge-11-mvstr.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b1500.m3u8
 
 #EXTINF:-1 [COLOR RED] [/COLOR] group-title="Peliculas",.: Peliculas:.
-#EXTINF:-1 [COLOR WHITE] [/COLOR] group-title="1080p",.: 1080p (KANA) :.
+#EXTINF:0 [COLOR WHITE] [/COLOR] group-title="1080p",.: 1080p (KANA) :.
 
 #EXTINF:-1,group-title="Peliculas",「2004」Dawn of the Dead
 http://dl.my-film.in/Movie/BluRay1080p/Dawn.Of.The.Dead.2004.1080p.5.1CH.Ganool.mkv
