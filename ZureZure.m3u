@@ -1,20 +1,22 @@
 #EXTM3U
 
-#EXTINF:-1, tvg-logo="" group-title="Leeme",- [COLOR cyan]Actualizado 20/12/2017[/COLOR] -
+#EXTINF:-1, tvg-logo="" group-title="Leeme",- [COLOR cyan]25/12/2017 21:43[/COLOR] -
 http://127.0.0.1
 #EXTINF:-1, tvg-logo="fKByJrs.png" group-title="Canales Chilenos", -[COLOR red]Canales Chilenos[/COLOR]-
 http://127.0.0.1
 
 #EXTINF:-1, Canales AQUI
 
-#EXTINF:-1 [COLOR RED] [/COLOR] group-title="Peliculas",.: Peliculas:.
-#EXTINF:-1 [COLOR WHITE] [/COLOR] group-title="1080p",.: 1080p (KANA) :.
+#EXTINF:-1, group-title="Peliculas 1080p",[COLOR red]..::: Peliculas 1080p :::..[/COLOR]
+http://127.0.0.1
 
 #EXTINF:-1,「2004」Dawn of the Dead
 http://dl.my-film.in/Movie/BluRay1080p/Dawn.Of.The.Dead.2004.1080p.5.1CH.Ganool.mkv
-
 #EXTINF:-1,「2016」Realive 
 http://dl.my-film.in/Movie/BluRay1080p/Realive.2016.1080p.BluRay.6CH.x264.Ganool-[My-Film].mkv
 
-#EXTINF:-1, 「2016」Terra formars 720p
+#EXTINF:-1, group-title="Peliculas 720p",[COLOR red]..::: Peliculas 720p :::..[/COLOR]
+http://127.0.0.1
+
+#EXTINF:-1,「2016」Terra formars 720p
 http://dl.my-film.in/Movie/BluRay%20720p-x265/Terra.Formars.2016.720p.BluRay.2CH.x265.HEVC-[My-Film].mkv
