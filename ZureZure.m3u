@@ -1,12 +1,24 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR cyan]25/12/2017 21:43[/COLOR] -
+#EXTINF:-1,[COLOR cyan]25/12/2017 21:43[/COLOR]
 http://127.0.0.1
 #..-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
-#EXTINF:-1,[COLOR red]Canales Chilenos[/COLOR]-
+#EXTINF:-1,[COLOR red]Canales Chilenos[/COLOR]
 http://127.0.0.1
 
-#EXTINF:-1, Canales AQUI
+#EXTINF:-1,Canal F1 Latin America
+http://live.izzitv.mx/Content/HLS/Live/Channel(CANAL_F1_LATAM)/index.m3u8
+
+
+
+#..-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+#EXTINF:-1,[COLOR green]Canales Varios (nombre temporal)[/COLOR]
+http://127.0.0.1
+
+
+
+
+
 #..-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
 #EXTINF:-1,[COLOR red]..::: Peliculas 1080p :::..[/COLOR]
 http://127.0.0.1
