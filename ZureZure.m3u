@@ -14,27 +14,45 @@ http://189.216.247.113/Content/HLS/Live/Channel(CANAL_F1_LATAM)/index.m3u8
 #EXTINF:-1,[COLOR red]..::: Peliculas 1080p :::..[/COLOR]
 http://127.0.0.1
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="1080p",[COLOR red]..::: 2004 :::..[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="1080p",[COLOR red]..::: 2017 :::..[/COLOR]
 http://127.0.0.1
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="1080p",|2004| Dawn of the Dead
-http://dl.my-film.in/Movie/BluRay1080p/Dawn.Of.The.Dead.2004.1080p.5.1CH.Ganool.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="1080p",[COLOR red]..::: 2016 :::..[/COLOR]
+http://127.0.0.1
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="1080p",|2016| Re-alive 
 http://dl.my-film.in/Movie/BluRay1080p/Realive.2016.1080p.BluRay.6CH.x264.Ganool-[My-Film].mkv
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="1080p",|2016| Zootopia
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://media.fn-bd.com/Animation/Zootopia%20(2016)%20[1080p]/medium-cover.jpg" group-title="1080p",|2016| Zootopia
 http://media.fn-bd.com/Animation/Zootopia%20(2016)%20[1080p]/Zootopia%20(2016)%20[1080p].mp4
 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="1080p",[COLOR red]..::: 2015 :::..[/COLOR]
+http://127.0.0.1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="1080p",[COLOR red]..::: 2014 :::..[/COLOR]
+http://127.0.0.1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="1080p",[COLOR red]..::: 2013 :::..[/COLOR]
+http://127.0.0.1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="1080p",[COLOR red]..::: 2012 :::..[/COLOR]
+http://127.0.0.1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="1080p",[COLOR red]..::: 2011 :::..[/COLOR]
+http://127.0.0.1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="1080p",[COLOR red]..::: 2010:::..[/COLOR]
+http://127.0.0.1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="1080p",[COLOR red]..::: 2004 :::..[/COLOR]
+http://127.0.0.1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="1080p",|2004| Dawn of the Dead
+http://dl.my-film.in/Movie/BluRay1080p/Dawn.Of.The.Dead.2004.1080p.5.1CH.Ganool.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="1080p", The Empire of Corpses
+http://media.fn-bd.com/Japanese/The%20Empire%20of%20Corpses%20(2015)[1080p]/The%20Empire%20of%20Corpses%20(2015)[1080p].mkv
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="1080p", 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="1080p", 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="1080p", 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="1080p", 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="1080p", 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="1080p", 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="1080p", 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="1080p", 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="1080p", 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="1080p", 
+
 
 
 
