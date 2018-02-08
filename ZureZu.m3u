@@ -7,443 +7,125 @@ http://127.0.0.1
 #EXTINF:-1,[COLOR red]..::: Latam :::..[/COLOR]
 http://127.0.0.1
 
-#EXTINF:-1,Canal 13
-http://cdns840stu1010.multistream.net/canaltr3celive/live-500/PAZ.m3u8
-#EXTINF:-1,CANAL 9
-http://wow2.cl.digitalproserver.com/c9//c9.smil/playlist.m3u8?
-#EXTINF:-1,CHILE
-http://movilstream.digitalproserver.com/holvoet/holvoetvivo/holvoet.smil/chunklist-b1248000.m3u8
-#EXTINF:-1,CHILE
-http://wow2.cl.digitalproserver.com/itv/itvvivo/livestream1/playlist.m3u
-#EXTINF:-1,CHILE
-http://iphone-streaming.ustream.tv/uhls/16911585/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,Quinta Vision
-http://iphone-streaming.ustream.tv/uhls/2950729/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,WWE NETWORK
-http://darksideiptv.com:8000/live/aron1/aron1/23854.ts
-#EXTINF:0,EuroSport 1
-http://aqqp627/vesp2lsh/playlist.m3u8
-#EXTINF:0,beIN Sport 1 France
-http://aqqp627/bein1frlsh919/playlist.m3u8
-#EXTINF:0,beIN Sport 2 France
-http://aqqp627/bein2frlsh919/playlist.m3u8
-#EXTINF:0,Sky Sports 2
-http://aqqp627/skysports2lsh/playlist.m3u8
-#EXTINF:0,Sky Sports 3
-http://aqqp627/skysports3lsh/playlist.m3u8
-#EXTINF:0,Sky Sports 5
-http://aqqp627/skysports5lsh/playlist.m3u8
-#EXTINF:0,CDF Premium
-http://aqqp627/CDFPremiumlsh/playlist.m3u8
-#EXTINF:0,CDF HD
-http://aqqp627/CDFHDlsh/playlist.m3u8
-#EXTINF:0,Fox Sports Premium
-http://aqqp627/FoxSportsPremiumlsh/playlist.m3u8
-#EXTINF:0,ESPN
-http://aqqp627/ESPNlsh/playlist.m3u8
-#EXTINF:-1,TVN HD
-http://edge-51-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
-#EXTINF:-1,Canal13 HD
-http://live.hls.http.13.ztreaming.com/13hddesktop/13hd-900.m3u8
-#EXTINF:-1,CHV HD
-http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvHi.m3u8
-#EXTINF:-1,MEGA HD
-http://edge-61-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist.m3u8
-#EXTINF:-1, LA RED HD
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1564000,RESOLUTION=1280×720
-http://movilstream.digitalproserver.com/redtv/redtvvivo/redtv.smil/chunklist-b1564000.m3u8?wowzasessionid=1534266335
-#EXTINF:-1,CANAL 9 HD
-http://wow2.cl.digitalproserver.com/c9//c9.smil/hasbahca.m3u8
-#EXTINF:-1 tvg-name=”24 HORAS” , 24 HORAS
-http://iphonelive.rtve.es/24H_LV3_IPH/24H_LV3_IPH.m3u8
-#EXTINF:-1,REC TV
-http://13rec.movil.ztreaming.com:1935/13rec/13rec/playlist.m3u8
-ken=47d96475a03fddb31193a97aaadf9cc5
-#EXTINF: -1, TVG-logo = “” grupo-title = “Canales chilenos”, CDF premium
-http://65.202.39.110:5000/live/cdf_chile_deporte/playlist.m3u8
-#EXTINF:-1, tvg-logo=”http://elpi.co/iptv/logos/mega.png” group-title=”Canales Chile”, MEGA HD
-http://edge-11-mvstr.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist.m3u8
-#EXTINF:-1,Canal 13
-http://cdns840stu1010.multistream.net/canaltr3celive/live-500/PAZ.m3u8
-#EXTINF:-1,CANAL 9
-http://wow2.cl.digitalproserver.com/c9//c9.smil/playlist.m3u8?
-#EXTINF:-1,CHILE
-http://movilstream.digitalproserver.com/holvoet/holvoetvivo/holvoet.smil/chunklist-b1248000.m3u8
-#EXTINF:-1,CHILE
-http://wow2.cl.digitalproserver.com/itv/itvvivo/livestream1/playlist.m3u
-#EXTINF:-1,CHILE
-http://iphone-streaming.ustream.tv/uhls/16911585/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,Quinta Vision
-http://iphone-streaming.ustream.tv/uhls/2950729/streams/live/iphone/playlist.m3u8
-#EXTINF:0 type=”stream” tvg-logo=”http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/633.png” , Las Estrellas Latinoamerica
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
-#EXTINF:0 type=”stream” , rcn hd
-http://exabytetv.zapto.org/exabytetv-esgratis/gc/SRWEN-1011000111101111001110000001001-ExabyteTV/1969/visita-exabytetv.m3u8
-#EXTINF:0 type=”stream” , rcn hd2
-http://exabytetv.zapto.org/exabytetv-esgratis/gc/SRWEN-1011000111101111001110000001001-ExabyteTV/1973/visita-exabytetv.m3u8
-#EXTINF:0 type=”stream” , caracol hd
-http://exabytetv.zapto.org/exabytetv-esgratis/gc/SRWEN-1011000111101111001110000001001-ExabyteTV/1972/visita-exabytetv.m3u8
-#EXTINF:0 type=”stream” channelId=”2489″ tvg-logo=”http://oncetv-ipn.net/generales/wp-content/uploads/2016/08/logo_canalonce.png” , CANAL ONCE
-http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
-#EXTINF:0 type=”stream” tvg-logo=”http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/1610.png” , Azteca Noticias
-http://aztecalive-lh.akamaihd.net/i/0pd7p6ys0_1@175672/index_3_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0 type=”stream” tvg-logo=”http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/1610.png” , Azteca Noticias
-http://aztecalive-lh.akamaihd.net/i/0pd7p6ys0_1@175672/index_3_av-p.m3u8
-#EXTINF:0 type=”stream” , caracol hd2
-http://exabytetv.zapto.org/exabytetv-esgratis/gc/SRWEN-1011000111101111001110000001001-ExabyteTV/1974/visita-exabytetv.m3u8
-#EXTINF:0 type=”stream” tvg-logo=”http://elpoderdelespiritu.com/channels/canalcongresomexico.png” , Canal Del Congreso Mexico
-http://dl.canaldelcongreso.gob.mx:1935/ccongreso/mp4:congreso2b.mp4/playlist.m3u8
-#EXTINF:0 type=”stream” tvg-logo=”https://yt3.ggpht.com/-cmw1yRJqfTA/AAAAAAAAAAI/AAAAAAAAAAA/MO0nxnZqRtU/s176-c-k-no-mo-rj-c0xffffff/photo.jpg” , CAPITAL 21 CDMX
-http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8
-#EXTINF:0 type=”stream” channelId=”2698″ , Canal 22
-https://livestream-f.akamaihd.net/i/16458468_4574813_89525450_1@39006/index_864_av-p.m3u8?sd=10&dw=14400&rebase=on&hdntl=exp=1489632434~acl=%2fi%2f16458468_4574813_89525450_1%4039006%2f*~data=hdntl~hmac=16c61f3896ab458ad25feab00b4ddb29bb97b489e61ab6169caec8a8cad7b887
-#EXTINF:0 type=”stream” tvg-logo=”https://yt3.ggpht.com/-PiSkQ_BubKc/AAAAAAAAAAI/AAAAAAAAAAA/BDgeUTksnYw/s176-c-k-no-mo-rj-c0xffffff/photo.jpg” , UNA VOZ CON TODOS HD
-http://urtmpkal-f.akamaihd.net/i/0queot4rb_1@327205/master.m3u8
-#EXTINF:0 type=”stream” tvg-logo=”http://cindytakahashi.com/wp-content/uploads/TV-Mexiquense.png” , TV MEXIQUENSE
-http://fss28.streamhoster.com:1935/lv_tvmexiquense/broadcast1/live.m3u8
-#EXTINF:0 type=”stream” tvg-group=”Noticias” tvg-logo=”http://puu.sh/tqWGU/8642e69f30.png” , Aristegui Noticias
-https://vod.livestream.com/events/00000000006147c6/42a5ebd3-9d01-4ab5-ba7b-f6b01afb7752_1756.m3u8?token=0_595a9bd5_aa2ebcad66b28c4fc4b122ab115e3d6b5bd98b3e&start=106&end=14498
-#EXTINF:1 type=”stream” tvg-logo=”https://yt3.ggpht.com/-47mZmMqii64/AAAAAAAAAAI/AAAAAAAAAAA/tXJ1c3yULV4/s176-c-k-no-mo-rj-c0xffffff/photo.jpg” , MVS NOTICIAS
-http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8
-#EXTINF:0 type=”stream” tvg-logo=”http://www.mediavyasa.com.mx/archivos/representantes/logo/logoteleformula.jpg” , TELEFORMULA
-http://server.iptvcanales.com/~nkjcqlgb/LIVE/H01/CANAL161/PROFILE03.m3u8?fuera=arbitros
-#EXTINF:0 type=”stream” tvg-logo=”http://www.mediavyasa.com.mx/archivos/representantes/logo/logoteleformula.jpg” , TELEFORMULA
-http://exabytetv.zapto.org/exabytetv-esgratis/total/3/HPNNL-1011001000100001010111110000000-ExabyteTV/161/visita-exabytetv.m3u8
-#EXTINF:0 type=”stream” tvg-group=”Noticias” tvg-logo=”http://puu.sh/o2sV5/e9d51a4646.png” , Efekto TV HD
-http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/master.m3u8
-#EXTINF:0 type=”stream” channelId=”293″ tvg-group=”Noticias” tvg-logo=”http://puu.sh/o2sV5/e9d51a4646.png” , Efekto TV
-http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/index_3_av-p.m3u8
-#EXTINF:0 type=”stream” channelId=”783″ tvg-logo=”https://yt3.ggpht.com/-1RjtzpOiHT4/AAAAAAAAAAI/AAAAAAAAAAA/WU2EQtQvQvs/s88-c-k-no-mo-rj-c0xffffff/photo.jpg” , RT HD
-http://rt-esp-live.hls.adaptive.level3.net/rt/esp/index1600.m3u8
-#EXTINF:0 type=”stream” channelId=”119″ tvg-group=”Servidor1″ , Bloomberg
-http://server.iptvcanales.com/~nkjcqlgb/LIVE/H01/CANAL610/PROFILE03.m3u8?fuera=arbitros
-#EXTINF:0 type=”stream” tvg-logo=”http://www.rcgespectaculares.com.mx/images/rcg-logo-2014-288.png” , RCG TV1
-http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
-#EXTINF:0 type=”stream” tvg-logo=”http://www.rcgespectaculares.com.mx/images/rcg-logo-2014-288.png” , RCG TV3
-http://canal44-lh.akamaihd.net/i/ch_canal44@325633/index_1000k_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0 type=”stream” channelId=”2498″ , Ocho TV
-http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8
-#EXTINF:0 type=”stream” tvg-logo=”http://tvonlinegratis.com/wp-content/uploads/2014/05/TVMas-Logo.jpg” , TVMAS HD VERACRUZ
-http://50.7.98.234:1935/rtv/videortv//playlist.m3u8
-#EXTINF:0 type=”stream” tvg-group=”TV” tvg-logo=”http://canal44.com/wp-content/uploads/2016/11/544-copy-1-300×99.png” , Canal-44
-http://canal44-lh.akamaihd.net/i/ch_canal44@325633/index_500k_av-b.m3u8?sd=10&rebase=on
-#EXTINF:0 type=”stream” tvg-name=”Exabyte TV ” tvg-group=”M�XICO (Locales)” , RTG Guerrero
-http://50.7.98.234:1935/5936soyguerrero/guerrerovideo/playlist.m3u8
-#EXTINF:0 type=”stream” , Gala Tv Cancun
-http://74.222.3.185:1935/live/ngrp:galatvcancun_all/playlist.m3u8
-#EXTINF:0 type=”stream” tvg-group=”ENTRETENIMIENTO” tvg-logo=”http://abdavega.playlatinohd.com/logos/mexico/tv3.png” , TV3 Puebla
-http://189.203.247.136:1935/live/pueblatv/master.m3u8
-#EXTINF:0 type=”stream” , Canal 7 HD (San Luis)
-http://187.188.159.113:1935/live/web.sdp/playlist.m3u8
-#EXTINF:1 type=”stream” channelId=”352″ , DW
-http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_2_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0 type=”stream” channelId=”388″ tvg-group=”Servidor1″ , Unicable
-http://server.iptvcanales.com/~nkjcqlgb/LIVE/H01/CANAL218/PROFILE03.m3u8?fuera=arbitros
-#EXTINF:0 type=”stream” channelId=”388″ , Unicable
-http://exabytetv.zapto.org/exabytetv-esgratis/total/3/HPNNL-1011001000100001010111110000000-ExabyteTV/218/visita-exabytetv.m3u8
-#EXTINF:0 type=”stream” tvg-logo=”http://www.chivas69.com/wp-content/uploads/2016/09/Ver-Univision-EN-VIVO-Online.jpg” , UNIVISION
-http://iphone-streaming.ustream.tv/uhls/22460196/streams/live/iphone/playlist.m3u8
-#EXTINF:0 type=”stream” tvg-logo=”http://www.chivas69.com/wp-content/uploads/2016/09/Ver-Univision-EN-VIVO-Online.jpg” , UNIVISION
-http://iphone-streaming.ustream.tv/uhls/22534666/streams/live/iphone/playlist.m3u8
-#EXTINF:0 type=”stream” , Tele Uno TV
-http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
-#EXTINF:0 type=”stream” , unimas
-http://170.55.15.122:8000/play/a01v
-#EXTINF:0 type=”stream” tvg-group=”ENTRETENIMIENTO” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Frecuencia_Latina.svg/160px-Frecuencia_Latina.svg.png” , Latina TV
-http://cialive-live.hds.adaptive.level3.net/hls-live/ciaremux-live/_definst_/live/stream4.m3u8
-#EXTINF:0 type=”stream” , TVN Nicaragua
-http://162.244.81.181:1935/live//Stream1/playlist.m3u8
-#EXTINF:0 type=”stream” , Nicaragua CANAL 13
-http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3u8
-#EXTINF:0 type=”stream” , TELEVICENTRO (HONDURAS)
-http://tvchonduras-lh.akamaihd.net/i/ch_1@325635/master.m3u8
-#EXTINF:0 type=”stream” , HCH Honduras
-http://4.31.30.140:1935/live/hchtvdigital/playlist.m3u8?wowzasessionid=1792561590
-#EXTINF:0 type=”stream” channelId=”1967″ tvg-group=”ENTRETENIMIENTO” tvg-logo=”http://x.cdn.entutele.com/media/channels/medium/telemundo.gif” , TELEMUNDO
-http://iphone-streaming.ustream.tv/uhls/22489838/streams/live/iphone/playlist.m3u8?
-#EXTINF:0 type=”stream” channelId=”1967″ tvg-logo=”http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/815.png” , Telemundo
-http://iphone-streaming.ustream.tv/uhls/22662024/streams/live/iphone/playlist.m3u8
-#EXTINF:0 type=”stream” tvg-group=”Entretenimiento” tvg-logo=”http://puu.sh/nvrR5/1bb233b647.png” , Miami TV
-http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
-#EXTINF:0 type=”stream” tvg-group=”ENTRETENIMIENTO” tvg-logo=”https://lh6.googleusercontent.com/-0vj3JwCG7gY/UY0f-xlZxeI/AAAAAAAACK4/2e7V7B3y_bU/s400/logo%2520de%2520vmastv.png” , Vm�s TV
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
-#EXTINF:0 type=”stream” , UnoTv
-http://live10.cdnmedia.tv/rtvcCanalUNOlive/smil:live.smil/chunklist_b750000.m3u8
-#EXTINF:0 type=”stream” tvg-name=”Exabyte TV ” tvg-group=”CHILE” tvg-logo=”http://upload.wikimedia.org/wikipedia/commons/2/21/2015megaoficial.png” , Megavision
-http://edge-10-ak.mdstrm.com/i/mediastream01_hls@119683/master.m3u8
-#EXTINF:0 type=”stream” channelId=”368″ , CUBAVISION
-http://170.55.15.122:8000/play/a01y
-#EXTINF:0 type=”stream” tvg-logo=”http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/3563.png” , El Tiempo Television
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8
-#EXTINF:0 type=”stream” tvg-name=”Exabyte TV ” tvg-group=”REP�BLICA DOMINICANA” tvg-logo=”http://cdn.conectate.com.do.s3.amazonaws.com/wp-content/uploads/2011/05/supercanal-1.png” , Super Canal RD
-http://newyorkstream.ddns.net:1935/supercanalcaribe/supercanalcaribe/playlist.m3u8?wowzasessionid=1572023888
-#EXTINF:0 type=”stream” tvg-name=”Exabyte TV ” tvg-group=”REP�BLICA DOMINICANA” , Teleuniverso
-http://ss9.domint.net:1942/tu_str/universo/chunklist_w501782081.m3u8
-#EXTINF:0 type=”stream” channelId=”2663″ , TELESUR
-http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/playlist.m3u8#IptvPlay
-#EXTINF:0 type=”stream” tvg-name=”Exabyte TV ” tvg-group=”ARGENTINA” tvg-logo=”http://tvonlinegratis.com/wp-content/uploads/2014/08/Canal9-Salta-Logo.jpg” , Canal 9 Salta
-http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
-#EXTINF:0 type=”stream” tvg-name=”Exabyte TV ” tvg-group=”ARGENTINA” tvg-logo=”http://www.abctelefonos.com/images/comercios/289120_60288_original.jpg” , Canal 26
-http://200.115.193.177/live/26hd-720/.m3u8
-#EXTINF:0 type=”stream” tvg-logo=”http://www.periodistadigital.com/imagenes/2015/04/27/orbe-21.jpg” , ORBE 21
-http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
-#EXTINF:0 type=”stream” tvg-name=”Exabyte TV ” tvg-group=”ARGENTINA” tvg-logo=”https://yt3.ggpht.com/-ZkYMNG-uvv4/AAAAAAAAAAI/AAAAAAAAAAA/_gDqN8rbxTw/s900-c-k-no-rj-c0xffffff/photo.jpg” , Telpin Canal 2
-http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
-#EXTINF:0 type=”stream” , TLX HD ARG
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8?
-#EXTINF:0 type=”stream” , CIUDAD
-http://186.0.233.76:1935/CiudadAbierta/smil:ciudadabierta.smil/playlist.m3u8
-#EXTINF:0 type=”stream” tvg-logo=”http://qmnoticias.com/uploads/programas/thumb/20160311132802_qm_qm_musica.jpg” , QM TV
-http://qmnoticiashls-lh.akamaihd.net/i/qmnoticias_hls@324831/master.m3u8
-#EXTINF:0 type=”stream” channelId=”161″ tvg-name=”Exabyte TV ” tvg-group=”COLOMBIA” , Telecafe
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8?
-#EXTINF:0 type=”stream” tvg-logo=”http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/361.png” , Cable Noticias
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
-#EXTINF:0 type=”stream” tvg-group=”Argentina” tvg-logo=”http://1.bp.blogspot.com/-o9pPhGXrzMU/UDQYqcGik4I/AAAAAAAAVVg/V01-iTq7J0g/s1600/TLX.png” , Telemax
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
-#EXTINF:0 type=”stream” tvg-name=”Exabyte TV ” tvg-group=”REP�BLICA DOMINICANA” tvg-logo=”http://mw1.iptv66.tv/stalker_portal/misc/logos/320/1151.png” , Teleradio America
-http://qs1.distream.net:2116/t45_str/canal45/playlist.m3u8
-#EXTINF:0 type=”stream” tvg-group=”Argentina” tvg-logo=”http://www.canalxfn.tv/logo_solo.png” , XFN TV 41 TV
-http://painel.serveron.com.br:1935/8172/8172/playlist.m3u8
-#EXTINF:0 type=”stream” tvg-group=”COLOMBIA” tvg-logo=”Logo-Canal_U.png” , Canal U
-http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8?
-#EXTINF:0 type=”stream” tvg-name=”NIU TV (HD)” tvg-group=”CHILE” tvg-logo=”http://niu.cl/wp-content/uploads/2016/07/logo.png” , NIU TV (HD)
-http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
-#EXTINF:0 type=”stream” tvg-name=”Exabyte TV ” tvg-group=”VENEZUELA” , Venezolano TV
-http://cast.streamingconnect.com:1935/elvenezolano/elvenezolano/playlist.m3u8
-#EXTINF:0 type=”stream” , CERTV CANAL4
-http://216.24.196.40:1935/live/canal4/playlist.m3u8
-#EXTINF:0 type=”stream” , deporte
-http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
-#EXTINF:0 type=”stream” channelId=”1965″ , TDN
-http://live.tvplayerlatino.com/usuarios/src2/TDN/web/playlist/hd.m3u8?
-#EXTINF:0 type=”stream” tvg-group=”Deportes” , gol caracol
-http://exabytetv.zapto.org/exabytetv-esgratis/gc/SRWEN-1011000111101111001110000001001-ExabyteTV/1975/visita-exabytetv.m3u8
-#EXTINF:0 type=”stream” tvg-group=”Deportes” tvg- , tyc sports
-http://clairinlive-a.akamaihd.net/dc-1/live/hls/p/1885581/e/1_8xzo6fux/t/YO19xXbHgW_22sNZezlmTg/index-s32-v1-a1.m3u8
-#EXTINF:0 type=”stream” tvg-group=”Canales de Deportes” tvg-logo=”hOYnTVm.png” , win sport
-#EXTINF:-1 tvg-logo=”http://www.winsports.co/assets/img/win/winsports-logo280x150.png”,WIN SPORTS Colombia http://exabytetv.zapto.org/exabytetv-esgratis/gc/SRWEN-1011000111101111001110000001001-ExabyteTV/1971/visita-exabytetv.m3u8
-#EXTINF:-1 tvg-id=”” tvg-name=”A&E free” tvg-logo=”” group-title=”[COLOR yellow][B]USA [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]”,A&E free
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/672.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”AnimalPlanet free” tvg-logo=”” group-title=”[COLOR yellow][B]USA [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]”,AnimalPlanet free
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/671.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”auctionmax free” tvg-logo=”” group-title=”[COLOR yellow][B]USA [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]”,auctionmax free
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/645.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”BBC AMERICA free” tvg-logo=”” group-title=”[COLOR yellow][B]USA [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]”,BBC AMERICA free
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/628.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”bet free” tvg-logo=”” group-title=”[COLOR yellow][B]USA [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]”,bet free
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/630.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”CartoonNetwork free” tvg-logo=”” group-title=”[COLOR yellow][B]USA [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]”,CartoonNetwork free
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/670.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”cbs free” tvg-logo=”” group-title=”[COLOR yellow][B]USA [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]”,cbs free
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/669.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”cbs news free” tvg-logo=”” group-title=”[COLOR yellow][B]USA [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]”,cbs news free
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/653.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”cinemax free” tvg-logo=”” group-title=”[COLOR yellow][B]USA [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]”,cinemax free
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/644.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”cnn free” tvg-logo=”” group-title=”[COLOR yellow][B]USA [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]”,cnn free
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/668.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”ComedyCentral free” tvg-logo=”” group-title=”[COLOR yellow][B]USA [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]”,ComedyCentral free
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/667.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”COOKING CHANNEL free” tvg-logo=”” group-title=”[COLOR yellow][B]USA [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]”,COOKING CHANNEL free
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/627.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”cw free” tvg-logo=”” group-title=”[COLOR yellow][B]USA [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]”,cw free
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/666.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”Destination America free” tvg-logo=”” group-title=”[COLOR yellow][B]USA [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]”,Destination America free
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/621.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”Discovery free” tvg-logo=”” group-title=”[COLOR yellow][B]USA [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]”,Discovery free
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/652.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”DiscoveryScience free” tvg-logo=”” group-title=”[COLOR yellow][B]USA [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]”,DiscoveryScience free
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/651.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”diy free” tvg-logo=”” group-title=”[COLOR yellow][B]USA [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]”,diy free
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/650.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”E! free” tvg-logo=”” group-title=”[COLOR yellow][B]USA [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]”,E! free
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/655.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”ESPN2 free” tvg-logo=”” group-title=”[COLOR yellow][B]USA [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]”,ESPN2 free
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/616.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”FOOD NETWORK free” tvg-logo=”” group-title=”[COLOR yellow][B]USA [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]”,FOOD NETWORK free
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/626.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”fox free” tvg-logo=”” group-title=”[COLOR yellow][B]USA [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]”,fox free
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/665.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”FOXNEWS30 free” tvg-logo=”” group-title=”[COLOR deeppink][B]LOCAL [/B][/COLOR][COLOR white][B] NEWS[/B][/COLOR]”,FOXNEWS30 free
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/618.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”FOXSPORT1 free” tvg-logo=”” group-title=”[COLOR yellow][B]USA [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]”,FOXSPORT1 free
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/625.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”fx free” tvg-logo=”” group-title=”[COLOR yellow][B]USA [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]”,fx free
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/664.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”fxx free” tvg-logo=”” group-title=”[COLOR yellow][B]USA [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]”,fxx free
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/635.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”fyi free” tvg-logo=”” group-title=”[COLOR yellow][B]USA [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]”,fyi free
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/643.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”h2 free” tvg-logo=”” group-title=”[COLOR yellow][B]USA [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]”,h2 free
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/633.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”HBO COMEDY free” tvg-logo=”” group-title=”[COLOR yellow][B]USA [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]”,HBO COMEDY free
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/624.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”HBO FAMILY free” tvg-logo=”” group-title=”[COLOR yellow][B]USA [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]”,HBO FAMILY free
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/623.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”hbo free” tvg-logo=”” group-title=”[COLOR yellow][B]USA [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]”,hbo free
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/634.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”HBO SIGNATURE free” tvg-logo=”” group-title=”[COLOR yellow][B]USA [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]”,HBO SIGNATURE free
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/642.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”INVESTIGATION DISCOVERY free” tvg-logo=”” group-title=”[COLOR yellow][B]USA [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]”,INVESTIGATION DISCOVERY free
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/641.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”life time free” tvg-logo=”” group-title=”[COLOR yellow][B]USA [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]”,life time free
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/663.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”lifetime movie network free” tvg-logo=”” group-title=”[COLOR yellow][B]USA [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]”,lifetime movie network free
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/649.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”MLB Live 1 free” tvg-logo=”” group-title=”[COLOR mediumblue][B]MLB [/B][/COLOR][COLORwhite] HD[/COLOR]”,MLB Live 1 free
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/721.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”MLB Live 2 free” tvg-logo=”” group-title=”[COLOR mediumblue][B]MLB [/B][/COLOR][COLORwhite] HD[/COLOR]”,MLB Live 2 free
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/720.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”MLB Network free” tvg-logo=”” group-title=”[COLOR mediumblue][B]MLB [/B][/COLOR][COLORwhite] HD[/COLOR]”,MLB Network free
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/719.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”MSNBC free” tvg-logo=”” group-title=”[COLOR yellow][B]USA [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]”,MSNBC free
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/640.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”NBA LEAGUE PASS LIVE 1 HD free” tvg-logo=”” group-title=”[COLOR green][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] HD[/COLOR]”,NBA LEAGUE PASS LIVE 1 HD free
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/718.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”NBA LEAGUE PASS LIVE 2 HD free” tvg-logo=”” group-title=”[COLOR green][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] HD[/COLOR]”,NBA LEAGUE PASS LIVE 2 HD free
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/717.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”NBA LEAGUE PASS LIVE 3 HD free” tvg-logo=”” group-title=”[COLOR green][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] HD[/COLOR]”,NBA LEAGUE PASS LIVE 3 HD free
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/716.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”nba tv free” tvg-logo=”” group-title=”[COLOR yellow][B]USA [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]”,nba tv free
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/639.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”nbc free” tvg-logo=”” group-title=”[COLOR yellow][B]USA [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]”,nbc free
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/662.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”NEWS12CONNECTICUT free” tvg-logo=”” group-title=”[COLOR deeppink][B]LOCAL [/B][/COLOR][COLOR white][B] NEWS[/B][/COLOR]”,NEWS12CONNECTICUT free
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/619.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”NEWS12THEBRONX free” tvg-logo=”” group-title=”[COLOR deeppink][B]LOCAL [/B][/COLOR][COLOR white][B] NEWS[/B][/COLOR]”,NEWS12THEBRONX free
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/620.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”nfl network free” tvg-logo=”” group-title=”[COLOR yellow][B]USA [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]”,nfl network free
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/632.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”NFLNOW free” tvg-logo=”” group-title=”[COLOR yellow][B]USA [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]”,NFLNOW free
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/622.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”pbs free” tvg-logo=”” group-title=”[COLOR yellow][B]USA [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]”,pbs free
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/660.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”showtime free” tvg-logo=”” group-title=”[COLOR yellow][B]USA [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]”,showtime free
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/638.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”spike free” tvg-logo=”” group-title=”[COLOR yellow][B]USA [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]”,spike free
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/659.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”STARZ CINEMA free” tvg-logo=”” group-title=”[COLOR yellow][B]USA [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]”,STARZ CINEMA free
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/636.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”STARZ EAST free” tvg-logo=”” group-title=”[COLOR yellow][B]USA [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]”,STARZ EAST free
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/637.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”syfy free” tvg-logo=”” group-title=”[COLOR yellow][B]USA [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]”,syfy free
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/658.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”tbs free” tvg-logo=”” group-title=”[COLOR yellow][B]USA [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]”,tbs free
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/657.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”tnt free” tvg-logo=”” group-title=”[COLOR yellow][B]USA [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]”,tnt free
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/656.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”trutv free” tvg-logo=”” group-title=”[COLOR yellow][B]USA [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]”,trutv free
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/648.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”tv land free” tvg-logo=”” group-title=”[COLOR yellow][B]USA [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]”,tv land free
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/654.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”UnivisionDeportes free” tvg-logo=”” group-title=”[COLOR yellowgreen][B]LATINO / SPANISH[/B][/COLOR][COLORwhite] TV[/COLOR]”,UnivisionDeportes free
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/617.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”Velocity free” tvg-logo=”” group-title=”[COLOR yellow][B]USA [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]”,Velocity free
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/646.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”wwe free” tvg-logo=”” group-title=”[COLOR yellow][B]USA [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]”,wwe free
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/631.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”[COLOR gold][B]….FOR MORE CONTENT UPGARDE.[COLOR white] TO PREMIUM $5 PER MONTH[/B][/COLOR]” tvg-logo=”” group-title=”[COLOR orange][B]NHL CENTER ICE [/B][/COLOR][COLORwhite] HD[/COLOR]”,[COLOR gold][B]….FOR MORE CONTENT UPGARDE.[COLOR white] TO PREMIUM $5 PER MONTH[/B][/COLOR]
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/809.ts.
-UPGARDE[COLOR white] TO PREMIUM $5 PER MONTH[/B][/COLOR]
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/810.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”[COLOR gold][B]…FOR MORE CONTENT. UPGARDE[COLOR white] TO PREMIUM $5 PER MONTH[/B][/COLOR]” tvg-logo=”” group-title=”[COLOR yellowgreen][B]LATINO / SPANISH[/B][/COLOR][COLORwhite] TV[/COLOR]”,[COLOR gold][B]…FOR MORE CONTENT. UPGARDE[COLOR white] TO PREMIUM $5 PER MONTH[/B][/COLOR]
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/813.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”[COLOR gold][B]…FOR MORE. CONTENT UPGARDE[COLOR white] TO PREMIUM $5 PER MONTH[/B][/COLOR]” tvg-logo=”” group-title=”[COLOR yellow][B]USA [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]”,[COLOR gold][B]…FOR MORE. CONTENT UPGARDE[COLOR white] TO PREMIUM $5 PER MONTH[/B][/COLOR]
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/812.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”[COLOR gold][B]…FOR. MORE CONTENT UPGARDE[COLOR white] TO PREMIUM $5 PER MONTH[/B][/COLOR]” tvg-logo=”” group-title=”[COLOR red][B]CANADIAN[/B][/COLOR][COLORwhite] TV[/COLOR]”,[COLOR gold][B]…FOR. MORE CONTENT UPGARDE[COLOR white] TO PREMIUM $5 PER MONTH[/B][/COLOR]
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/811.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”[COLOR gold][B]…FOR MORE CONTENT UPGARDE..[COLOR white] TO PREMIUM $5 PER MONTH[/B][/COLOR]” tvg-logo=”” group-title=”[COLOR mediumblue][B]MLB [/B][/COLOR][COLORwhite] HD[/COLOR]”,[COLOR gold][B]…FOR MORE CONTENT UPGARDE..[COLOR white] TO PREMIUM $5 PER MONTH[/B][/COLOR]
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/816.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”[COLOR gold][B]PREMIUM CLIENTS ONLY.[COLOR white] GO PREMIUM $5 PER MONTH[/B][/COLOR]” tvg-logo=”” group-title=”[COLOR red][B]PAY PER[/B][/COLOR][COLORwhite] VIEW[/COLOR]”,[COLOR gold][B]PREMIUM CLIENTS ONLY.[COLOR white] GO PREMIUM $5 PER MONTH[/B][/COLOR]
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/815.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”[COLOR gold][B]PREMIUM CLIENTS ONLY[COLOR white] GO PREMIUM $5 PER MONTH[/B][/COLOR]” tvg-logo=”” group-title=”[COLOR gold][B]UK TV[/B][/COLOR][COLORwhite] SPORTS AND MOVIES[/COLOR]”,[COLOR gold][B]PREMIUM CLIENTS ONLY[COLOR white] GO PREMIUM $5 PER MONTH[/B][/COLOR]
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/814.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”NHL 1 HD” tvg-logo=”” group-title=”[COLOR orange][B]NHL CENTER ICE [/B][/COLOR][COLORwhite] HD[/COLOR]”,NHL 1 HD
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/715.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”NHL 2 HD” tvg-logo=”” group-title=”[COLOR orange][B]NHL CENTER ICE [/B][/COLOR][COLORwhite] HD[/COLOR]”,NHL 2 HD
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/714.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”NHL 3 HD” tvg-logo=”” group-title=”[COLOR orange][B]NHL CENTER ICE [/B][/COLOR][COLORwhite] HD[/COLOR]”,NHL 3 HD
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/713.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”free BET(BLACK ENTERTAINMENT CHANNEL)” tvg-logo=”” group-title=”[COLOR red][B]CANADIAN[/B][/COLOR][COLORwhite] TV[/COLOR]”,free BET(BLACK ENTERTAINMENT CHANNEL)
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/807.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”free BNN” tvg-logo=”” group-title=”[COLOR red][B]CANADIAN[/B][/COLOR][COLORwhite] TV[/COLOR]”,free BNN
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/806.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”free CARTOON NETWORK” tvg-logo=”” group-title=”[COLOR red][B]CANADIAN[/B][/COLOR][COLORwhite] TV[/COLOR]”,free CARTOON NETWORK
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/805.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”free CBC TORONTO” tvg-logo=”” group-title=”[COLOR red][B]CANADIAN[/B][/COLOR][COLORwhite] TV[/COLOR]”,free CBC TORONTO
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/804.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”free CHCH” tvg-logo=”” group-title=”[COLOR red][B]CANADIAN[/B][/COLOR][COLORwhite] TV[/COLOR]”,free CHCH
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/803.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”free CITY VANCOUVER” tvg-logo=”” group-title=”[COLOR red][B]CANADIAN[/B][/COLOR][COLORwhite] TV[/COLOR]”,free CITY VANCOUVER
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/802.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”free COMEDY GOLD” tvg-logo=”” group-title=”[COLOR red][B]CANADIAN[/B][/COLOR][COLORwhite] TV[/COLOR]”,free COMEDY GOLD
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/801.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”free COTTAGE LIFE” tvg-logo=”” group-title=”[COLOR red][B]CANADIAN[/B][/COLOR][COLORwhite] TV[/COLOR]”,free COTTAGE LIFE
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/800.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”free CP24″ tvg-logo=”” group-title=”[COLOR red][B]CANADIAN[/B][/COLOR][COLORwhite] TV[/COLOR]”,free CP24
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/799.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”free CTV TORONTO” tvg-logo=”” group-title=”[COLOR red][B]CANADIAN[/B][/COLOR][COLORwhite] TV[/COLOR]”,free CTV TORONTO
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/798.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”free DEJA VIEW” tvg-logo=”” group-title=”[COLOR red][B]CANADIAN[/B][/COLOR][COLORwhite] TV[/COLOR]”,free DEJA VIEW
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/797.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”free E!” tvg-logo=”” group-title=”[COLOR red][B]CANADIAN[/B][/COLOR][COLORwhite] TV[/COLOR]”,free E!
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/796.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”free FYI” tvg-logo=”” group-title=”[COLOR red][B]CANADIAN[/B][/COLOR][COLORwhite] TV[/COLOR]”,free FYI
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/794.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”free G4″ tvg-logo=”” group-title=”[COLOR red][B]CANADIAN[/B][/COLOR][COLORwhite] TV[/COLOR]”,free G4
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/793.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”free GLOBAL TV CALGARY” tvg-logo=”” group-title=”[COLOR red][B]CANADIAN[/B][/COLOR][COLORwhite] TV[/COLOR]”,free GLOBAL TV CALGARY
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/792.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”free GLOBAL TV EDMONTON” tvg-logo=”” group-title=”[COLOR red][B]CANADIAN[/B][/COLOR][COLORwhite] TV[/COLOR]”,free GLOBAL TV EDMONTON
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/791.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”free GOLF CHANNEL” tvg-logo=”” group-title=”[COLOR red][B]CANADIAN[/B][/COLOR][COLORwhite] TV[/COLOR]”,free GOLF CHANNEL
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/790.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”free GSN” tvg-logo=”” group-title=”[COLOR red][B]CANADIAN[/B][/COLOR][COLORwhite] TV[/COLOR]”,free GSN
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/789.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”free MOVIE TIME” tvg-logo=”” group-title=”[COLOR red][B]CANADIAN[/B][/COLOR][COLORwhite] TV[/COLOR]”,free MOVIE TIME
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/787.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”free MTV CANADA” tvg-logo=”” group-title=”[COLOR red][B]CANADIAN[/B][/COLOR][COLORwhite] TV[/COLOR]”,free MTV CANADA
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/786.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”free MUCH MUSIC” tvg-logo=”” group-title=”[COLOR red][B]CANADIAN[/B][/COLOR][COLORwhite] TV[/COLOR]”,free MUCH MUSIC
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/785.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”free MUSIQUE” tvg-logo=”” group-title=”[COLOR red][B]CANADIAN[/B][/COLOR][COLORwhite] TV[/COLOR]”,free MUSIQUE
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/784.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”free NICK” tvg-logo=”” group-title=”[COLOR red][B]CANADIAN[/B][/COLOR][COLORwhite] TV[/COLOR]”,free NICK
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/783.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”free OLN” tvg-logo=”” group-title=”[COLOR red][B]CANADIAN[/B][/COLOR][COLORwhite] TV[/COLOR]”,free OLN
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/782.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”free OWN (OPRAH WINFREY NETWORK)” tvg-logo=”” group-title=”[COLOR red][B]CANADIAN[/B][/COLOR][COLORwhite] TV[/COLOR]”,free OWN (OPRAH WINFREY NETWORK)
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/781.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”free PEACHTREE TV” tvg-logo=”” group-title=”[COLOR red][B]CANADIAN[/B][/COLOR][COLORwhite] TV[/COLOR]”,free PEACHTREE TV
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/780.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”free SILVER SCREEN CLASSICS” tvg-logo=”” group-title=”[COLOR red][B]CANADIAN[/B][/COLOR][COLORwhite] TV[/COLOR]”,free SILVER SCREEN CLASSICS
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/779.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”free SLICE” tvg-logo=”” group-title=”[COLOR red][B]CANADIAN[/B][/COLOR][COLORwhite] TV[/COLOR]”,free SLICE
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/778.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”free SPIKE” tvg-logo=”” group-title=”[COLOR red][B]CANADIAN[/B][/COLOR][COLORwhite] TV[/COLOR]”,free SPIKE
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/777.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”free SPORTSNET WORLD HD” tvg-logo=”” group-title=”[COLOR red][B]CANADIAN[/B][/COLOR][COLORwhite] TV[/COLOR]”,free SPORTSNET WORLD HD
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/776.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”free TELETOON” tvg-logo=”” group-title=”[COLOR red][B]CANADIAN[/B][/COLOR][COLORwhite] TV[/COLOR]”,free TELETOON
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/775.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”free THE MOVIE NETWORK” tvg-logo=”” group-title=”[COLOR red][B]CANADIAN[/B][/COLOR][COLORwhite] TV[/COLOR]”,free THE MOVIE NETWORK
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/774.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”free TRAVEL CHANNEL” tvg-logo=”” group-title=”[COLOR red][B]CANADIAN[/B][/COLOR][COLORwhite] TV[/COLOR]”,free TRAVEL CHANNEL
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/773.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”free TREE HOUSE” tvg-logo=”” group-title=”[COLOR red][B]CANADIAN[/B][/COLOR][COLORwhite] TV[/COLOR]”,free TREE HOUSE
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/772.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”free VRAK TV” tvg-logo=”” group-title=”[COLOR red][B]CANADIAN[/B][/COLOR][COLORwhite] TV[/COLOR]”,free VRAK TV
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/771.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”free W NETWORK” tvg-logo=”” group-title=”[COLOR red][B]CANADIAN[/B][/COLOR][COLORwhite] TV[/COLOR]”,free W NETWORK
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/770.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”free WORLD FISHING” tvg-logo=”” group-title=”[COLOR red][B]CANADIAN[/B][/COLOR][COLORwhite] TV[/COLOR]”,free WORLD FISHING
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/769.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”free YTV” tvg-logo=”” group-title=”[COLOR red][B]CANADIAN[/B][/COLOR][COLORwhite] TV[/COLOR]”,free YTV
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/768.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”TelemundoFREE” tvg-logo=”” group-title=”[COLOR yellowgreen][B]LATINO / SPANISH[/B][/COLOR][COLORwhite] TV[/COLOR]”,TelemundoFREE
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/615.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”ESPN Deportes” tvg-logo=”” group-title=”[COLOR yellowgreen][B]LATINO / SPANISH[/B][/COLOR][COLORwhite] TV[/COLOR]”,ESPN Deportes
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/823.ts
-#EXTINF:-1 tvg-id=”” tvg-name=”Fox Deportes” tvg-logo=”” group-title=”[COLOR yellowgreen][B]LATINO / SPANISH[/B][/COLOR][COLORwhite] TV[/COLOR]”,Fox Deportes
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/822.ts
+#EXTINF:-1 ECUAVISA
+http://elcanaldelfutbol.com/static/wowza/test/hls/20001/360p/playlist.m3u8
+#EXTINF:-1 ECUADOR TV CANAL 7
+http://api.new.livestream.com/accounts/22196143/events/6576568/live.m3u8
+#EXTINF:-1 CANELA TV
+http://servicioamerica.net:1935/8344/8344/playlist.m3u8
+#EXTINF:-1 OROMAR TV
+http://proxy.cablefamilia.com/hls/oromartv_hi/index.m3u8
+#EXTINF:-1 RTS
+http://d36zvzlneynve1.cloudfront.net/liverts/smil:liverts.smil/playlist.m3u8
+#EXTINF:-1 TC
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/480p/playlist.m3u8
+#EXTINF:-1 TC HD
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/720p/playlist.m3u8
+#EXTINF:-1 TVN
+http://xtvncanalecx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1 TVC
+http://d2dn7ylrd9r3ds.cloudfront.net/liverts/televicentro.smil/playlist.m3u8
+#EXTINF:-1 TVS
+http://181.198.10.23:1935/live2/smil:teradek.smil/chunklist_w151492058_b1024000_sleng.m3u8
+#EXTINF:-1 A&E
+http://live.tvplayerlatino.com/streaming/src1/a9C5z?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+#EXTINF:-1 AMC
+http://live.tvplayerlatino.com/streaming/src1/fRonE?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+#EXTINF:-1 CINECANAL
+http://live.tvplayerlatino.com/streaming/src1/XwyF3?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+#EXTINF:-1 CINEMAX
+http://live.tvplayerlatino.com/streaming/src1/k8MBl?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+#EXTINF:-1 COMEDIA CENTRAL
+http://live.tvplayerlatino.com/streaming/src1/EKlNT?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+#EXTINF:-1 DE PELICULA
+http://live.tvplayerlatino.com/streaming/src1/syIoC?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+#EXTINF:-1 FOX LIFE
+http://live.tvplayerlatino.com/streaming/src1/7eNpt?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+#EXTINF:-1 FOX CINEMA
+http://live.tvplayerlatino.com/streaming/src1/rvTcm?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+#EXTINF:-1 FOX CLASSICS
+http://live.tvplayerlatino.com/streaming/src1/ulhmA?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+#EXTINF:-1 FOX FAMILY
+http://live.tvplayerlatino.com/streaming/src5/HiIqb?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+#EXTINF:-1 FOX CINEMA
+http://live.tvplayerlatino.com/streaming/src1/rvTcm?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+#EXTINF:-1 FOX MOVIES
+http://live.tvplayerlatino.com/streaming/src1/pf5II?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+#EXTINF:-1 FOX SERIES
+http://live.tvplayerlatino.com/streaming/src1/NCheB?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+#EXTINF:-1 FX
+http://live.tvplayerlatino.com/streaming/src1/PEhC4?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+#EXTINF:-1 FX MOVIES
+http://live.tvplayerlatino.com/streaming/src1/8VRfG?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+#EXTINF:-1 GOLDEN
+http://live.tvplayerlatino.com/streaming/src1/PLMti?ZGtkYwVmZQR1ZQLlZQVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQLlZQVm
+#EXTINF:-1 GOLDEN EDGE
+http://live.tvplayerlatino.com/streaming/src1/QfuWa?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+#EXTINF:-1 HBO
+http://live.tvplayerlatino.com/streaming/src5/YStPQ?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+#EXTINF:-1 HBO2
+http://live.tvplayerlatino.com/streaming/src5/chbo2?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+#EXTINF:-1 HBO PLUS
+http://live.tvplayerlatino.com/streaming/src5/gso2W?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+#EXTINF:-1 HBO FAMILY
+http://live.tvplayerlatino.com/streaming/src5/8F6CC?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+#EXTINF:-1 ISAT
+http://live.tvplayerlatino.com/streaming/src1/r7Ohf?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+#EXTINF:-1 MAX PRIME
+http://live.tvplayerlatino.com/streaming/src5/iBdQU?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+#EXTINF:-1 SPACE
+http://live.tvplayerlatino.com/streaming/src1/qQIPI?ZGtkYwVmZQR1ZQLlZQVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQLlZQVm
+#EXTINF:-1 SIFY
+http://live.tvplayerlatino.com/streaming/src1/GU0FE?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+#EXTINF:-1 SONY
+http://live.tvplayerlatino.com/streaming/src1/wMbZG?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+#EXTINF:-1 STUDIO UNIVERSAL
+http://live.tvplayerlatino.com/streaming/src1/CZ6O4?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+#EXTINF:-1 TCM
+http://195.181.162.207:25461/live/peliculas/fanstvapp/1596.m3u8|user-agent=Alcatel_4060A-SVN/03; stagefright/1.2 (Linux;Android 5.1.1)
+#EXTINF:-1 TBS VERY FUNNY
+http://live.tvplayerlatino.com/streaming/src1/DbqPb?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+#EXTINF:-1 TNT
+http://live.tvplayerlatino.com/streaming/src1/uny6i?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+#EXTINF:-1 TNT SERIES
+http://live.tvplayerlatino.com/streaming/src1/9HmKY?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+#EXTINF:-1 UNIVERSAL
+http://live.tvplayerlatino.com/streaming/src1/nfdUc?ZGtkYwVmZQR1ZQLlZQVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQLlZQVm
+#EXTINF:-1 NATGEO WILD
+hls://http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/Stream(05)/index.m3u8
+#EXTINF:-1 NATIONAL GEOGRAPHIC
+hls://http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO)/Stream(05)/index.m3u8
+#EXTINF:-1 TNT SPORTS
+http://live.tvplayerlatino.com/streaming/src5/ITzba?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+#EXTINF:-1 TNT SPORTS 1
+http://158.69.52.43:8000/live/felipe/123456/3395.m3u8
+#EXTINF:-1 ESPN
+hls://http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/index.m3u8
+#EXTINF:-1 ESPN 2
+hls://http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 ESPN 3
+hls://http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 FOX SPORTS PREMIUM
+http://live.tvplayerlatino.com/streaming/src5/A8PA5?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+#EXTINF:-1 FOX SPORTS CHILE
+http://live.tvplayerlatino.com/streaming/src5/gj84S?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+#EXTINF:-1 FOX SPORTS 2
+http://live.tvplayerlatino.com/streaming/src5/gj842?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+#EXTINF:-1 TDN
+http://live.tvplayerlatino.com/streaming/src5/m1u4Q?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+#EXTINF:-1 BEING SPORTS
+http://live.tvplayerlatino.com/streaming/src5/7IehH?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+#EXTINF:-1 ANIME TV
+hls://http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+#EXTINF:-1 ANIMAX
+hls://http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+#EXTINF:-1 NICK JUNIOR
+http://200.78.215.85:8010/play/a08b
+#EXTINF:-1 POP HITS
+hls://http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC133/chunklist.m3u8
+#EXTINF:-1 POP ROCK
+hls://http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC138/chunklist.m3u8
+#EXTINF:-1 RITMO SON LATINO
+hls://http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w430979689.m3u8
+#EXTINF:-1 TELEMUSICA
+hls://http://186.155.200.118:1935/live/telemusica/playlist.m3u8
