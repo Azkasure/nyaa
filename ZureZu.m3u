@@ -7,123 +7,279 @@ http://127.0.0.1
 #EXTINF:-1,[COLOR red]..::: Latam :::..[/COLOR]
 http://127.0.0.1
 
-#EXTINF:-1 ECUAVISA
-http://elcanaldelfutbol.com/static/wowza/test/hls/20001/360p/playlist.m3u8
-#EXTINF:-1 ECUADOR TV CANAL 7
-http://api.new.livestream.com/accounts/22196143/events/6576568/live.m3u8
-#EXTINF:-1 CANELA TV
-http://servicioamerica.net:1935/8344/8344/playlist.m3u8
-#EXTINF:-1 OROMAR TV
-http://proxy.cablefamilia.com/hls/oromartv_hi/index.m3u8
-#EXTINF:-1 RTS
-http://d36zvzlneynve1.cloudfront.net/liverts/smil:liverts.smil/playlist.m3u8
-#EXTINF:-1 TC
-http://elcanaldelfutbol.com/static/wowza/test/hls/10001/480p/playlist.m3u8
-#EXTINF:-1 TC HD
-http://elcanaldelfutbol.com/static/wowza/test/hls/10001/720p/playlist.m3u8
-#EXTINF:-1 TVN
-http://xtvncanalecx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1 TVC
-http://d2dn7ylrd9r3ds.cloudfront.net/liverts/televicentro.smil/playlist.m3u8
-#EXTINF:-1 TVS
-http://181.198.10.23:1935/live2/smil:teradek.smil/chunklist_w151492058_b1024000_sleng.m3u8
-#EXTINF:-1 A&E
-http://live.tvplayerlatino.com/streaming/src1/a9C5z?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
-#EXTINF:-1 AXN
-http://s1.smartview.live:5210/live/jqngqnvb/512gT9xxFt/10055.ts
-#EXTINF:-1 AMC
-http://live.tvplayerlatino.com/streaming/src1/fRonE?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
-#EXTINF:-1 CINECANAL
-http://live.tvplayerlatino.com/streaming/src1/XwyF3?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
-#EXTINF:-1 CINEMAX
-http://live.tvplayerlatino.com/streaming/src1/k8MBl?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
-#EXTINF:-1 COMEDIA CENTRAL
-http://live.tvplayerlatino.com/streaming/src1/EKlNT?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
-#EXTINF:-1 DE PELICULA
-http://live.tvplayerlatino.com/streaming/src1/syIoC?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
-#EXTINF:-1 FOX LIFE
-http://live.tvplayerlatino.com/streaming/src1/7eNpt?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
-#EXTINF:-1 FOX CINEMA
-http://live.tvplayerlatino.com/streaming/src1/rvTcm?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
-#EXTINF:-1 FOX CLASSICS
-http://live.tvplayerlatino.com/streaming/src1/ulhmA?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
-#EXTINF:-1 FOX FAMILY
-http://live.tvplayerlatino.com/streaming/src5/HiIqb?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
-#EXTINF:-1 FOX CINEMA
-http://live.tvplayerlatino.com/streaming/src1/rvTcm?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
-#EXTINF:-1 FOX MOVIES
-http://live.tvplayerlatino.com/streaming/src1/pf5II?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
-#EXTINF:-1 FOX SERIES
-http://live.tvplayerlatino.com/streaming/src1/NCheB?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
-#EXTINF:-1 FX
-http://live.tvplayerlatino.com/streaming/src1/PEhC4?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
-#EXTINF:-1 FX MOVIES
-http://live.tvplayerlatino.com/streaming/src1/8VRfG?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
-#EXTINF:-1 GOLDEN
-http://live.tvplayerlatino.com/streaming/src1/PLMti?ZGtkYwVmZQR1ZQLlZQVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQLlZQVm
-#EXTINF:-1 GOLDEN EDGE
-http://live.tvplayerlatino.com/streaming/src1/QfuWa?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
-#EXTINF:-1 HBO
-http://live.tvplayerlatino.com/streaming/src5/YStPQ?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
-#EXTINF:-1 HBO2
-http://live.tvplayerlatino.com/streaming/src5/chbo2?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
-#EXTINF:-1 HBO PLUS
-http://live.tvplayerlatino.com/streaming/src5/gso2W?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
-#EXTINF:-1 HBO FAMILY
-http://live.tvplayerlatino.com/streaming/src5/8F6CC?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
-#EXTINF:-1 ISAT
-http://live.tvplayerlatino.com/streaming/src1/r7Ohf?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
-#EXTINF:-1 MAX PRIME
-http://live.tvplayerlatino.com/streaming/src5/iBdQU?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
-#EXTINF:-1 SPACE
-http://live.tvplayerlatino.com/streaming/src1/qQIPI?ZGtkYwVmZQR1ZQLlZQVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQLlZQVm
-#EXTINF:-1 SIFY
-http://live.tvplayerlatino.com/streaming/src1/GU0FE?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
-#EXTINF:-1 SONY
-http://live.tvplayerlatino.com/streaming/src1/wMbZG?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
-#EXTINF:-1 STUDIO UNIVERSAL
-http://live.tvplayerlatino.com/streaming/src1/CZ6O4?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
-#EXTINF:-1 TCM
-http://195.181.162.207:25461/live/peliculas/fanstvapp/1596.m3u8|user-agent=Alcatel_4060A-SVN/03; stagefright/1.2 (Linux;Android 5.1.1)
-#EXTINF:-1 TBS VERY FUNNY
-http://live.tvplayerlatino.com/streaming/src1/DbqPb?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
-#EXTINF:-1 TNT
-http://live.tvplayerlatino.com/streaming/src1/uny6i?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
-#EXTINF:-1 TNT SERIES
-http://live.tvplayerlatino.com/streaming/src1/9HmKY?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
-#EXTINF:-1 UNIVERSAL
-http://live.tvplayerlatino.com/streaming/src1/nfdUc?ZGtkYwVmZQR1ZQLlZQVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQLlZQVm
-#EXTINF:-1 WARNER CHANEL
-http://s1.smartview.live:5210/live/jqngqnvb/512gT9xxFt/10153.ts
-#EXTINF:-1 ANIMAL PLANET
-http://s1.smartview.live:5210/live/jqngqnvb/512gT9xxFt/10054.ts
-#EXTINF:-1 DISCOVERY HOME & HEALT
-http://s1.smartview.live:5210/live/jqngqnvb/512gT9xxFt/10075.ts
-#EXTINF:-1 DISCOVERY INVESTIGACION
-http://s1.smartview.live:5210/live/jqngqnvb/512gT9xxFt/10116.ts
-#EXTINF:-1 NATGEO WILD
-http://s1.smartview.live:5210/live/jqngqnvb/512gT9xxFt/10124.ts
-#EXTINF:-1 NATIONAL GEOGRAPHIC
-http://s1.smartview.live:5210/live/jqngqnvb/512gT9xxFt/10125.ts
-#EXTINF:-1 TNT SPORTS
-http://live.tvplayerlatino.com/streaming/src5/ITzba?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
-#EXTINF:-1 TNT SPORTS 1
-http://158.69.52.43:8000/live/felipe/123456/3395.m3u8
-#EXTINF:-1 ESPN
-http://s1.smartview.live:5210/live/jqngqnvb/512gT9xxFt/10090.ts
-#EXTINF:-1 ESPN 2
-http://s1.smartview.live:5210/live/jqngqnvb/512gT9xxFt/10091.ts
-#EXTINF:-1 ESPN 3
-http://s1.smartview.live:5210/live/jqngqnvb/512gT9xxFt/10092.ts
-#EXTINF:-1 FOX SPORTS
-http://s1.smartview.live:5210/live/jqngqnvb/512gT9xxFt/10103.ts
-#EXTINF:-1 FOX SPORTS PREMIUM
-http://live.tvplayerlatino.com/streaming/src5/A8PA5?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
-#EXTINF:-1 FOX SPORTS CHILE
-http://live.tvplayerlatino.com/streaming/src5/gj84S?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
-#EXTINF:-1 FOX SPORTS 2
-http://live.tvplayerlatino.com/streaming/src5/gj842?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
-#EXTINF:-1 TDN
-http://live.tvplayerlatino.com/streaming/src5/m1u4Q?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
-#EXTINF:-1 BEING SPORTS
-http://live.tvplayerlatino.com/streaming/src5/7IehH?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+#EXTINF:-1 tvg-id="I140.3640.tvguide.com" tvg-name="Repretel 11 HD - CR" tvg-logo="http://logos.megaplay.xyz/repretel_11.png" group-title="Centro America",Repretel 11 HD - CR
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/7495.ts
+#EXTINF:-1 tvg-id="I140.3640.tvguide.com" tvg-name="Repretel 11 - CR" tvg-logo="http://logos.megaplay.xyz/repretel_11.png" group-title="Centro America",Repretel 11 - CR
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/2126.ts
+#EXTINF:-1 tvg-id="I121.21746.tvguide.com" tvg-name="Digital 15 - RD" tvg-logo="http://logos.megaplay.xyz/digital_quince.png" group-title="Centro America",Digital 15 - RD
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/1733.ts
+#EXTINF:-1 tvg-id="I124.21761.tvguide.com" tvg-name="Teleuniverso - RD" tvg-logo="http://logos.megaplay.xyz/tele_universo_do.png" group-title="Centro America",Teleuniverso - RD
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/1732.ts
+#EXTINF:-1 tvg-id="I129.24342.tvguide.com" tvg-name="Teleunion - RD" tvg-logo="http://logos.megaplay.xyz/teleunion.png" group-title="Centro America",Teleunion - RD
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/1685.ts
+#EXTINF:-1 tvg-id="I120.21743.tvguide.com" tvg-name="Telesistema - RD" tvg-logo="http://logos.megaplay.xyz/telesistema.png" group-title="Centro America",Telesistema - RD
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/1686.ts
+#EXTINF:-1 tvg-id="I128.21744.tvguide.com" tvg-name="Telecentro - RD" tvg-logo="http://logos.megaplay.xyz/telecentro_do.png" group-title="Centro America",Telecentro - RD
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/1684.ts
+#EXTINF:-1 tvg-id="I118.21740.tvguide.com" tvg-name="Antena Latina - RD" tvg-logo="http://logos.megaplay.xyz/antena_latina.png" group-title="Centro America",Antena Latina - RD
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/1683.ts
+#EXTINF:-1 tvg-id="I126.47558.tvguide.com" tvg-name="Canal 13 - NIC" tvg-logo="http://logos.megaplay.xyz/viva_nicaragua_canal_13_ni.png" group-title="Centro America",Canal 13 - NIC
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/1660.ts
+#EXTINF:-1 tvg-id="TLC HD" tvg-name="TLC HD" tvg-logo="http://logos.megaplay.xyz/tlc_lam.png" group-title="Estilo de Vida",TLC HD
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/6695.ts
+#EXTINF:-1 tvg-id="I455.45869.tvguide.com" tvg-name="Hola TV HD" tvg-logo="http://logos.megaplay.xyz/hola_tv_es.png" group-title="Estilo de Vida",Hola TV HD
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/6859.ts
+#EXTINF:-1 tvg-id="I17.12002.tvguide.com" tvg-name="Unimas HD" tvg-logo="http://logos.megaplay.xyz/wfty_unimas.jpg" group-title="Estilo de Vida",Unimas HD
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/2103.ts
+#EXTINF:-1 tvg-id="I681.37353.tvguide.com" tvg-name="ID - HD" tvg-logo="http://logos.megaplay.xyz/investigation_discovery_us.png" group-title="Estilo de Vida",ID - HD
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/583.ts
+#EXTINF:-1 tvg-id="I512.4191.tvguide.com" tvg-name="ID - Investigation Discovery" tvg-logo="http://logos.megaplay.xyz/investigation_discovery_us.png" group-title="Estilo de Vida",ID - Investigation Discovery
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/361.ts
+#EXTINF:-1 tvg-id="I224.19477.tvguide.com" tvg-name="Glitz" tvg-logo="http://logos.megaplay.xyz/glitz_lam.png" group-title="Estilo de Vida",Glitz
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/498.ts
+#EXTINF:-1 tvg-id="Univision HD" tvg-name="Univision HD" tvg-logo="http://logos.megaplay.xyz/wven_daytona_beach.png" group-title="Estilo de Vida",Univision HD
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/1945.ts
+#EXTINF:-1 tvg-id="I62.527.tvguide.com" tvg-name="Telemundo" tvg-logo="http://logos.megaplay.xyz/kxxv_dt2_waco.png" group-title="Estilo de Vida",Telemundo
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/1721.ts
+#EXTINF:-1 tvg-id="I381.77455.tvguide.com" tvg-name="Telemundo Internacional" tvg-logo="http://logos.megaplay.xyz/telemundo_internacional.png" group-title="Estilo de Vida",Telemundo Internacional
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/444.ts
+#EXTINF:-1 tvg-id="I228.51995.tvguide.com" tvg-name="Life Time" tvg-logo="http://logos.megaplay.xyz/lifetime_us.png" group-title="Estilo de Vida",Life Time
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/1002.ts
+#EXTINF:-1 tvg-id="I679.56907.tvguide.com" tvg-name="Unicable HD" tvg-logo="http://logos.megaplay.xyz/unicable.png" group-title="Estilo de Vida",Unicable HD
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/2106.ts
+#EXTINF:-1 tvg-id="I678.44233.tvguide.com" tvg-name="Pasiones HD" tvg-logo="http://logos.megaplay.xyz/pasiones_us_lam.png" group-title="Estilo de Vida",Pasiones HD
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/2107.ts
+#EXTINF:-1 tvg-id="I141.45667.tvguide.com" tvg-name="RCN Novelas" tvg-logo="http://logos.megaplay.xyz/rcnnovela.png" group-title="Estilo de Vida",RCN Novelas
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/336.ts
+#EXTINF:-1 tvg-id="I209.24190.tvguide.com" tvg-name="AzCorazon" tvg-logo="http://logos.megaplay.xyz/az_corazon_mx.png" group-title="Estilo de Vida",AzCorazon
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/1003.ts
+#EXTINF:-1 tvg-id="Discovery Home & Health HD" tvg-name="Discovery Home & Health HD" tvg-logo="http://logos.megaplay.xyz/discovery_home_health_lam.png" group-title="Estilo de Vida",Discovery Home & Health HD
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/2234.ts
+#EXTINF:-1 tvg-id="Discovery H&H" tvg-name="Discovery H&H" tvg-logo="http://logos.megaplay.xyz/discovery_home_health_lam.png" group-title="Estilo de Vida",Discovery H&H
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/364.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kids Station Japan" tvg-logo="http://logos.megaplay.xyz/kidsta.png" group-title="JAPAN",Kids Station Japan
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/7500.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Japan" tvg-logo="http://logos.megaplay.xyz/disney_channel_global.png" group-title="JAPAN",Disney Japan
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/7499.ts
+#EXTINF:-1 tvg-id="" tvg-name="Animax Japan" tvg-logo="http://logos.megaplay.xyz/animax.png" group-title="JAPAN",Animax Japan
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/6375.ts
+#EXTINF:-1 tvg-id="" tvg-name="KTV" tvg-logo="http://logos.megaplay.xyz/ktv.png" group-title="JAPAN",KTV
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/7501.ts
+#EXTINF:-1 tvg-id="" tvg-name="BS Fuji" tvg-logo="http://logos.megaplay.xyz/fuji.png" group-title="JAPAN",BS Fuji
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/7713.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fuji TV" tvg-logo="http://logos.megaplay.xyz/fuji.png" group-title="JAPAN",Fuji TV
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/6350.ts
+#EXTINF:-1 tvg-id="" tvg-name="BS 12" tvg-logo="http://logos.megaplay.xyz/bs12.png" group-title="JAPAN",BS 12
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/7714.ts
+#EXTINF:-1 tvg-id="" tvg-name="BS Japan" tvg-logo="http://logos.megaplay.xyz/bsjapan.png" group-title="JAPAN",BS Japan
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/7712.ts
+#EXTINF:-1 tvg-id="" tvg-name="NHK BS1" tvg-logo="http://logos.megaplay.xyz/nhkbs1.jpg" group-title="JAPAN",NHK BS1
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/6327.ts
+#EXTINF:-1 tvg-id="" tvg-name="NHK BS Premium" tvg-logo="http://logos.megaplay.xyz/nhkbsprime.png" group-title="JAPAN",NHK BS Premium
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/6832.ts
+#EXTINF:-1 tvg-id="" tvg-name="NHK-G (Kansai)" tvg-logo="http://logos.megaplay.xyz/nhkg.png" group-title="JAPAN",NHK-G (Kansai)
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/6829.ts
+#EXTINF:-1 tvg-id="" tvg-name="NHK-G (Kanto)" tvg-logo="http://logos.megaplay.xyz/nhkg.png" group-title="JAPAN",NHK-G (Kanto)
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/6828.ts
+#EXTINF:-1 tvg-id="" tvg-name="NHK-E (Kansai)" tvg-logo="http://logos.megaplay.xyz/nhke.png" group-title="JAPAN",NHK-E (Kansai)
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/6831.ts
+#EXTINF:-1 tvg-id="" tvg-name="NHK-E (Kanto)" tvg-logo="http://logos.megaplay.xyz/nhke.png" group-title="JAPAN",NHK-E (Kanto)
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/6830.ts
+#EXTINF:-1 tvg-id="" tvg-name="BS NTV" tvg-logo="http://logos.megaplay.xyz/bsntv.png" group-title="JAPAN",BS NTV
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/7710.ts
+#EXTINF:-1 tvg-id="" tvg-name="NTV" tvg-logo="http://logos.megaplay.xyz/ntv.png" group-title="JAPAN",NTV
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/6827.ts
+#EXTINF:-1 tvg-id="" tvg-name="BS TBS" tvg-logo="http://logos.megaplay.xyz/bstbs.png" group-title="JAPAN",BS TBS
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/7715.ts
+#EXTINF:-1 tvg-id="" tvg-name="TBS Kanto" tvg-logo="http://logos.megaplay.xyz/tbs_jp.jpg" group-title="JAPAN",TBS Kanto
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/6379.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tokyo MX" tvg-logo="http://logos.megaplay.xyz/yumelion_200x200.jpg" group-title="JAPAN",Tokyo MX
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/6378.ts
+#EXTINF:-1 tvg-id="" tvg-name="BS ASAhi" tvg-logo="http://logos.megaplay.xyz/bsasahi.png" group-title="JAPAN",BS ASAhi
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/7711.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Asahi" tvg-logo="http://logos.megaplay.xyz/tv-asahi-200x200.jpg" group-title="JAPAN",TV Asahi
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/6380.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Tokyo" tvg-logo="http://logos.megaplay.xyz/tvtokyo2.png" group-title="JAPAN",TV Tokyo
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/6377.ts
+#EXTINF:-1 tvg-id="" tvg-name="ABC (Kansai)" tvg-logo="http://logos.megaplay.xyz/abc-kansai.png" group-title="JAPAN",ABC (Kansai)
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/3512.ts
+#EXTINF:-1 tvg-id="" tvg-name="YTV (Kansai)" tvg-logo="http://logos.megaplay.xyz/ytv.png" group-title="JAPAN",YTV (Kansai)
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/753.ts
+#EXTINF:-1 tvg-id="" tvg-name="MBS (Kansai)" tvg-logo="http://logos.megaplay.xyz/mbs.png" group-title="JAPAN",MBS (Kansai)
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/754.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sun TV" tvg-logo="http://logos.megaplay.xyz/suntv.png" group-title="JAPAN",Sun TV
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/926.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Osaka" tvg-logo="http://logos.megaplay.xyz/tvosaka.png" group-title="JAPAN",TV Osaka
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/6857.ts
+#EXTINF:-1 tvg-id="" tvg-name="WOWOW Cinema" tvg-logo="http://logos.megaplay.xyz/wowowcinema.jpg" group-title="JAPAN",WOWOW Cinema
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/6374.ts
+#EXTINF:-1 tvg-id="" tvg-name="WOWOW Live" tvg-logo="http://logos.megaplay.xyz/wowow_live.jpg" group-title="JAPAN",WOWOW Live
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/6373.ts
+#EXTINF:-1 tvg-id="" tvg-name="WOWOW Prime" tvg-logo="http://logos.megaplay.xyz/wowprime.png" group-title="JAPAN",WOWOW Prime
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/6372.ts
+#EXTINF:-1 tvg-id="I2.44428.tvguide.com" tvg-name="Ecuavisa HD" tvg-logo="http://logos.megaplay.xyz/ecuavisa_guayaquil.png" group-title="Ecuador/Colombia",Ecuavisa HD
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/6862.ts
+#EXTINF:-1 tvg-id="I4.42728.tvguide.com" tvg-name="RTS HD" tvg-logo="http://logos.megaplay.xyz/red_tele_sistema.png" group-title="Ecuador/Colombia",RTS HD
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/7504.ts
+#EXTINF:-1 tvg-id="I5.52650.tvguide.com" tvg-name="Teleamazonas HD" tvg-logo="http://logos.megaplay.xyz/teleamazonas.png" group-title="Ecuador/Colombia",Teleamazonas HD
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/6863.ts
+#EXTINF:-1 tvg-id="TC Television HD" tvg-name="TC Television HD" tvg-logo="http://logos.megaplay.xyz/tc_ec.png" group-title="Ecuador/Colombia",TC Television HD
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/6861.ts
+#EXTINF:-1 tvg-id="I12.15451.tvguide.com" tvg-name="Canal Uno - Ecuador" tvg-logo="http://logos.megaplay.xyz/unoecuador.png" group-title="Ecuador/Colombia",Canal Uno - Ecuador
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/7503.ts
+#EXTINF:-1 tvg-id="I935.18911.tvguide.com" tvg-name="Ecuavisa Internacional" tvg-logo="http://logos.megaplay.xyz/ecuavisa_int.png" group-title="Ecuador/Colombia",Ecuavisa Internacional
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/2105.ts
+#EXTINF:-1 tvg-id="I160.12270.tvguide.com" tvg-name="RCN Nuestra Tele" tvg-logo="http://logos.megaplay.xyz/rcn_nuestra_tele_co.png" group-title="Ecuador/Colombia",RCN Nuestra Tele
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/433.ts
+#EXTINF:-1 tvg-id="Bolivision" tvg-name="Bolivision" tvg-logo="http://logos.megaplay.xyz/bolivision_bo.png" group-title="Ecuador/Colombia",Bolivision
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/335.ts
+#EXTINF:-1 tvg-id="I130.4265.tvguide.com" tvg-name="RCN" tvg-logo="http://logos.megaplay.xyz/rcn_tv.png" group-title="Ecuador/Colombia",RCN
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/467.ts
+#EXTINF:-1 tvg-id="I132.4375.tvguide.com" tvg-name="Caracol" tvg-logo="http://logos.megaplay.xyz/caracol_tv.png" group-title="Ecuador/Colombia",Caracol
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/468.ts
+#EXTINF:-1 tvg-id="I136.34539.tvguide.com" tvg-name="Canal Uno" tvg-logo="http://logos.megaplay.xyz/canal_uno_co.png" group-title="Ecuador/Colombia",Canal Uno
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/469.ts
+#EXTINF:-1 tvg-id="I137.34550.tvguide.com" tvg-name="Senal Colombia" tvg-logo="http://logos.megaplay.xyz/senal_co.png" group-title="Ecuador/Colombia",Senal Colombia
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/496.ts
+#EXTINF:-1 tvg-id="I133.9973.tvguide.com" tvg-name="CityTV" tvg-logo="http://logos.megaplay.xyz/city_tv_co.png" group-title="Ecuador/Colombia",CityTV
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/909.ts
+#EXTINF:-1 tvg-id="I7.41118.tvguide.com" tvg-name="EcuadorTV" tvg-logo="http://logos.megaplay.xyz/ecuador_tv_internacional.png" group-title="Ecuador/Colombia",EcuadorTV
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/905.ts
+#EXTINF:-1 tvg-id="I5.52650.tvguide.com" tvg-name="Teleamazonas" tvg-logo="http://logos.megaplay.xyz/teleamazonas.png" group-title="Ecuador/Colombia",Teleamazonas
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/912.ts
+#EXTINF:-1 tvg-id="I10.23914.tvguide.com" tvg-name="TC Television" tvg-logo="http://logos.megaplay.xyz/tc_ec.png" group-title="Ecuador/Colombia",TC Television
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/901.ts
+#EXTINF:-1 tvg-id="I2.44428.tvguide.com" tvg-name="Ecuavisa" tvg-logo="http://logos.megaplay.xyz/ecuavisa_guayaquil.png" group-title="Ecuador/Colombia",Ecuavisa
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/904.ts
+#EXTINF:-1 tvg-id="I8.23913.tvguide.com" tvg-name="GamaTV" tvg-logo="http://logos.megaplay.xyz/gama_tv.png" group-title="Ecuador/Colombia",GamaTV
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/719.ts
+#EXTINF:-1 tvg-id="I26.35950.tvguide.com" tvg-name="Oromar TV" tvg-logo="http://logos.megaplay.xyz/oromar_tv.png" group-title="Ecuador/Colombia",Oromar TV
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/911.ts
+#EXTINF:-1 tvg-id="I4.42728.tvguide.com" tvg-name="RTS" tvg-logo="http://logos.megaplay.xyz/red_tele_sistema.png" group-title="Ecuador/Colombia",RTS
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/1655.ts
+#EXTINF:-1 tvg-id="I140.3616.tvguide.com" tvg-name="Teleantioquia" tvg-logo="http://logos.megaplay.xyz/tele-antioquia.jpg" group-title="Ecuador/Colombia",Teleantioquia
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/1020.ts
+#EXTINF:-1 tvg-id="I141.3697.tvguide.com" tvg-name="Telepacifico" tvg-logo="http://logos.megaplay.xyz/telepacifico.jpg" group-title="Ecuador/Colombia",Telepacifico
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/1019.ts
+#EXTINF:-1 tvg-id="I142.3698.tvguide.com" tvg-name="Telecaribe" tvg-logo="http://logos.megaplay.xyz/telecaribe_co.png" group-title="Ecuador/Colombia",Telecaribe
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/1657.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ciudadano TV" tvg-logo="http://logos.megaplay.xyz/tele_ciudadana.jpg" group-title="Ecuador/Colombia",Ciudadano TV
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/1010.ts
+#EXTINF:-1 tvg-id="" tvg-name="Epoca" tvg-logo="http://www.prensario.tv/IMAGENES/Telefonica_Telecom_Epoca.jpg" group-title="Ecuador/Colombia",Epoca
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/1021.ts
+#EXTINF:-1 tvg-id="I73.37307.tvguide.com" tvg-name="ATB" tvg-logo="http://logos.megaplay.xyz/atb_bo.jpg" group-title="Ecuador/Colombia",ATB
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/900.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Tro" tvg-logo="http://logos.megaplay.xyz/canal_tro.png" group-title="Ecuador/Colombia",Canal Tro
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/1659.ts
+#EXTINF:-1 tvg-id="Telecafe" tvg-name="Telecafe" tvg-logo="http://logos.megaplay.xyz/telecafe_co.png" group-title="Ecuador/Colombia",Telecafe
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/1658.ts
+#EXTINF:-1 tvg-id="I102.5064.tvguide.com" tvg-name="Venevision" tvg-logo="http://logos.megaplay.xyz/venevision_tv_ve.png" group-title="Argentina / Venezuela",Venevision
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/1004.ts
+#EXTINF:-1 tvg-id="I107.20661.tvguide.com" tvg-name="Venevision Plus" tvg-logo="http://logos.megaplay.xyz/venevision_plus.png" group-title="Argentina / Venezuela",Venevision Plus
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/441.ts
+#EXTINF:-1 tvg-id="I112.9941.tvguide.com" tvg-name="Meridiano" tvg-logo="http://logos.megaplay.xyz/meridiano_tv_ve.png" group-title="Argentina / Venezuela",Meridiano
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/1656.ts
+#EXTINF:-1 tvg-id="I104.27220.tvguide.com" tvg-name="Televen" tvg-logo="http://logos.megaplay.xyz/televen_ve.png" group-title="Argentina / Venezuela",Televen
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/1654.ts
+#EXTINF:-1 tvg-id="I110.9933.tvguide.com" tvg-name="Globovision HD" tvg-logo="http://logos.megaplay.xyz/globovision_ve.png" group-title="Argentina / Venezuela",Globovision HD
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/1015.ts
+#EXTINF:-1 tvg-id="I110.9933.tvguide.com" tvg-name="Globovision" tvg-logo="http://logos.megaplay.xyz/globovision_ve.png" group-title="Argentina / Venezuela",Globovision
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/1006.ts
+#EXTINF:-1 tvg-id="I4.18462.tvguide.com" tvg-name="America HD" tvg-logo="http://logos.megaplay.xyz/america_ar.png" group-title="Argentina / Venezuela",America HD
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/6564.ts
+#EXTINF:-1 tvg-id="I8.9651.tvguide.com" tvg-name="Todo Noticias HD" tvg-logo="http://logos.megaplay.xyz/todo_noticias.png" group-title="Argentina / Venezuela",Todo Noticias HD
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/6589.ts
+#EXTINF:-1 tvg-id="I12.37109.tvguide.com" tvg-name="El Trece HD" tvg-logo="http://logos.megaplay.xyz/el_trece_internacional.png" group-title="Argentina / Venezuela",El Trece HD
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/6563.ts
+#EXTINF:-1 tvg-id="I429.18478.tvguide.com" tvg-name="El Trece Internacional" tvg-logo="http://logos.megaplay.xyz/el_trece_internacional.png" group-title="Argentina / Venezuela",El Trece Internacional
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/306.ts
+#EXTINF:-1 tvg-id="I10.3963.tvguide.com" tvg-name="Telefe HD" tvg-logo="http://logos.megaplay.xyz/telefe_internacional_ar.png" group-title="Argentina / Venezuela",Telefe HD
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/6562.ts
+#EXTINF:-1 tvg-id="I786.3964.tvguide.com" tvg-name="Telefe Internacional" tvg-logo="http://logos.megaplay.xyz/telefe_internacional_ar.png" group-title="Argentina / Venezuela",Telefe Internacional
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/1001.ts
+#EXTINF:-1 tvg-id="I5.19630.tvguide.com" tvg-name="C5N" tvg-logo="http://logos.megaplay.xyz/c5n.png" group-title="Argentina / Venezuela",C5N
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/7699.ts
+#EXTINF:-1 tvg-id="CronicaTV" tvg-name="CronicaTV" tvg-logo="http://logos.megaplay.xyz/cronica_tv.png" group-title="Argentina / Venezuela",CronicaTV
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/7717.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEC TV" tvg-logo="http://logos.megaplay.xyz/tec_tv_ar.png" group-title="Argentina / Venezuela",TEC TV
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/7719.ts
+#EXTINF:-1 tvg-id="I53.5057.tvguide.com" tvg-name="TVN HD" tvg-logo="http://logos.megaplay.xyz/tvn_cl.png" group-title="Chile / Peru",TVN HD
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/1675.ts
+#EXTINF:-1 tvg-id="I53.5057.tvguide.com" tvg-name="TVN" tvg-logo="http://logos.megaplay.xyz/tvn_cl.png" group-title="Chile / Peru",TVN
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/331.ts
+#EXTINF:-1 tvg-id="I182.5058.tvguide.com" tvg-name="TVN Internacional" tvg-logo="http://logos.megaplay.xyz/tv_chile_cl.png" group-title="Chile / Peru",TVN Internacional
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/1730.ts
+#EXTINF:-1 tvg-id="I54.29371.tvguide.com" tvg-name="MEGA HD" tvg-logo="http://logos.megaplay.xyz/mega_cl.png" group-title="Chile / Peru",MEGA HD
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/1676.ts
+#EXTINF:-1 tvg-id="I54.29371.tvguide.com" tvg-name="Megavision" tvg-logo="http://logos.megaplay.xyz/mega_cl.png" group-title="Chile / Peru",Megavision
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/324.ts
+#EXTINF:-1 tvg-id="I55.4313.tvguide.com" tvg-name="CHV HD" tvg-logo="http://logos.megaplay.xyz/chilevision_cl.png" group-title="Chile / Peru",CHV HD
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/1674.ts
+#EXTINF:-1 tvg-id="I55.4313.tvguide.com" tvg-name="CHV" tvg-logo="http://logos.megaplay.xyz/chilevision_cl.png" group-title="Chile / Peru",CHV
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/329.ts
+#EXTINF:-1 tvg-id="I52.29368.tvguide.com" tvg-name="La Red HD" tvg-logo="http://logos.megaplay.xyz/la_red_cl.png" group-title="Chile / Peru",La Red HD
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/1673.ts
+#EXTINF:-1 tvg-id="I52.29368.tvguide.com" tvg-name="RED Television" tvg-logo="http://logos.megaplay.xyz/la_red_cl.png" group-title="Chile / Peru",RED Television
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/357.ts
+#EXTINF:-1 tvg-id="I56.4271.tvguide.com" tvg-name="Canal 13 HD" tvg-logo="http://logos.megaplay.xyz/canal13_cl.png" group-title="Chile / Peru",Canal 13 HD
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/1672.ts
+#EXTINF:-1 tvg-id="I56.4271.tvguide.com" tvg-name="Canal 13" tvg-logo="http://logos.megaplay.xyz/canal13_cl.png" group-title="Chile / Peru",Canal 13
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/322.ts
+#EXTINF:-1 tvg-id="I27.33916.tvguide.com" tvg-name="13 C" tvg-logo="http://logos.megaplay.xyz/canal13_c_cl.png" group-title="Chile / Peru",13 C
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/356.ts
+#EXTINF:-1 tvg-id="I11.29365.tvguide.com" tvg-name="ETC tv" tvg-logo="http://logos.megaplay.xyz/etc_tv_cl.png" group-title="Chile / Peru",ETC tv
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/323.ts
+#EXTINF:-1 tvg-id="I50.29387.tvguide.com" tvg-name="UCV" tvg-logo="http://logos.megaplay.xyz/ucv_tv_cl.png" group-title="Chile / Peru",UCV
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/347.ts
+#EXTINF:-1 tvg-id="I151.6161.tvguide.com" tvg-name="Via X" tvg-logo="http://logos.megaplay.xyz/via_x_cl.png" group-title="Chile / Peru",Via X
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/333.ts
+#EXTINF:-1 tvg-id="I150.29372.tvguide.com" tvg-name="Zona Latina" tvg-logo="http://logos.megaplay.xyz/zona_latina_cl.png" group-title="Chile / Peru",Zona Latina
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/334.ts
+#EXTINF:-1 tvg-id="I118.49529.tvguide.com" tvg-name="REC TV" tvg-logo="http://logos.megaplay.xyz/rec_tv_cl.png" group-title="Chile / Peru",REC TV
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/431.ts
+#EXTINF:-1 tvg-id="I16.29367.tvguide.com" tvg-name="Telecanal" tvg-logo="http://logos.megaplay.xyz/telecanal_cl.png" group-title="Chile / Peru",Telecanal
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/375.ts
+#EXTINF:-1 tvg-id="I113.20399.tvguide.com" tvg-name="REDTV" tvg-logo="http://logos.megaplay.xyz/red_tv_pe.png" group-title="Chile / Peru",REDTV
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/724.ts
+#EXTINF:-1 tvg-id="Peru Magico" tvg-name="Peru Magico" tvg-logo="http://logos.megaplay.xyz/peru_magico.png" group-title="Chile / Peru",Peru Magico
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/722.ts
+#EXTINF:-1 tvg-id="I106.3614.tvguide.com" tvg-name="PlusTV" tvg-logo="http://logos.megaplay.xyz/plus_tv_pe.png" group-title="Chile / Peru",PlusTV
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/723.ts
+#EXTINF:-1 tvg-id="I104.20404.tvguide.com" tvg-name="America TV" tvg-logo="http://logos.megaplay.xyz/america_tv.png" group-title="Chile / Peru",America TV
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/338.ts
+#EXTINF:-1 tvg-id="I105.4326.tvguide.com" tvg-name="Panamericana" tvg-logo="http://logos.megaplay.xyz/panamericana_tv_pe.png" group-title="Chile / Peru",Panamericana
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/721.ts
+#EXTINF:-1 tvg-id="I109.5850.tvguide.com" tvg-name="ATV" tvg-logo="http://logos.megaplay.xyz/andina_tv.png" group-title="Chile / Peru",ATV
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/7502.ts
+#EXTINF:-1 tvg-id="I108.6231.tvguide.com" tvg-name="Canal N" tvg-logo="http://logos.megaplay.xyz/canal_n_pe.png" group-title="Chile / Peru",Canal N
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/718.ts
+#EXTINF:-1 tvg-id="I102.20439.tvguide.com" tvg-name="Latina" tvg-logo="http://logos.megaplay.xyz/latina_pe.png" group-title="Chile / Peru",Latina
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/720.ts
+#EXTINF:-1 tvg-id="TNP" tvg-name="TNP" tvg-logo="http://logos.megaplay.xyz/tv_peru.png" group-title="Chile / Peru",TNP
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/1016.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ensayo Peru - ATV HD" tvg-logo="" group-title="Chile / Peru",Ensayo Peru - ATV HD
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/7737.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ensayo Peru - Willax HD" tvg-logo="" group-title="Chile / Peru",Ensayo Peru - Willax HD
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/7738.ts
+#EXTINF:-1 tvg-id="I36.3460.tvguide.com" tvg-name="Cartoon Network HD East" tvg-logo="http://logos.megaplay.xyz/cartoon_network_global.png" group-title="EEUU",Cartoon Network HD East
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/2340.ts
+#EXTINF:-1 tvg-id="I12.410.tvguide.com" tvg-name="TBS HD East" tvg-logo="http://logos.megaplay.xyz/tbs_east.png" group-title="EEUU",TBS HD East
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/2220.ts
+#EXTINF:-1 tvg-id="I11.427.tvguide.com" tvg-name="TNT HD East" tvg-logo="http://logos.megaplay.xyz/tnthd.jpeg" group-title="EEUU",TNT HD East
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/2104.ts
+#EXTINF:-1 tvg-id="I39.432.tvguide.com" tvg-name="USA HD East" tvg-logo="http://logos.megaplay.xyz/usa_network_east.png" group-title="EEUU",USA HD East
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/906.ts
+#EXTINF:-1 tvg-id="AMC HD East" tvg-name="AMC HD East" tvg-logo="http://logos.megaplay.xyz/amc_us.png" group-title="EEUU",AMC HD East
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/928.ts
+#EXTINF:-1 tvg-id="I66.26.tvguide.com" tvg-name="Comedy Central HD East" tvg-logo="http://logos.megaplay.xyz/comedy_central_us.png" group-title="EEUU",Comedy Central HD East
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/1233.ts
+#EXTINF:-1 tvg-id="I84.1161.tvguide.com" tvg-name="Escape" tvg-logo="http://logos.megaplay.xyz/escape_tv_us.png" group-title="EEUU",Escape
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/257.ts
+#EXTINF:-1 tvg-id="I3.358.tvguide.com" tvg-name="FOX HD East" tvg-logo="http://logos.megaplay.xyz/wsvn_fox7_miami.png" group-title="EEUU",FOX HD East
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/577.ts
+#EXTINF:-1 tvg-id="I5.3441.tvguide.com" tvg-name="CBS HD East" tvg-logo="http://logos.megaplay.xyz/wcbs_cbs2_new_york.png" group-title="EEUU",CBS HD East
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/925.ts
+#EXTINF:-1 tvg-id="I552.557.tvguide.com" tvg-name="NBC HD East" tvg-logo="http://logos.megaplay.xyz/wtvj_miami.png" group-title="EEUU",NBC HD East
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/502.ts
+#EXTINF:-1 tvg-id="I550.382.tvguide.com" tvg-name="ABC HD East" tvg-logo="http://logos.megaplay.xyz/wplg_miami.png" group-title="EEUU",ABC HD East
+http://cdn.megaplay.xyz:80/live/DemoMegaplay/5Days/501.ts
